@@ -1,0 +1,6 @@
+framework module Pods_SchtreetSchmarts {
+  umbrella header "Pods-SchtreetSchmarts-umbrella.h"
+
+  export *
+  module * { export * }
+}
